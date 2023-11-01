@@ -2,7 +2,6 @@ import requests
 import csv
 
 SCOPUS_API_URL = "https://api.elsevier.com/content/search/scopus"
-# Substitua pela sua própria chave
 
 def run_scopus_queries(api_key, queries, fields):
     for i, query in enumerate(queries):
@@ -40,10 +39,10 @@ def run_scopus_queries(api_key, queries, fields):
                 else:
                     print(f"Sem resultados para a query {i+1}")
             else:
-                print(f"Error for query {i+1}: {response.status_code} - {response.text}")
+                print(f"Erro na consulta {i+1}: {response.status_code} - {response.text}")
 
         except Exception as e:
-            print(f"Error for query {i}: {str(e)}")
+            print(f"Erro na consulta {i}: {str(e)}")
 
 def requisicao(key_api, queries):
 
