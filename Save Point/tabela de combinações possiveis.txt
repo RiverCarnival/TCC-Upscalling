@@ -1,0 +1,26 @@
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Super-Resolution") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Deep Learning") AND PUBYEAR > 2018 -- vai ter que perguntar pro Alex
+TITLE-ABS-KEY ("Neural Networks" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Upscaling" AND "Super-Resolution") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Upscaling" AND "Deep Learning") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Upscaling" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Super-Resolution" AND "Deep Learning") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Super-Resolution" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Super-Resolution") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Deep Learning") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Super-Resolution" AND "Deep Learning") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Super-Resolution" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Upscaling" AND "Super-Resolution" AND "Deep Learning") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Upscaling" AND "Super-Resolution" AND "Texture Recreation") AND PUBYEAR > 2018 --feito
+TITLE-ABS-KEY ("Upscaling" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 --feito
+TITLE-ABS-KEY ("Super-Resolution" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 --feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Super-Resolution" AND "Deep Learning") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Super-Resolution" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Super-Resolution" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Upscaling" AND "Super-Resolution" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito
+TITLE-ABS-KEY ("Neural Networks" AND "Upscaling" AND "Super-Resolution" AND "Deep Learning" AND "Texture Recreation") AND PUBYEAR > 2018 -- feito

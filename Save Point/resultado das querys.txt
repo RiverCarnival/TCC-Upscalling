@@ -1,0 +1,32 @@
+resultado das querys:
+
+Query 1 Completa. Numero de resultados encontrados: 307 'query_1.csv'
+Query 2 Completa. Numero de resultados encontrados: 4335 'query_2.csv'
+Query 3 Completa. Numero de resultados encontrados: 153365 'query_3.csv'
+Sem resultados para a query 4
+Query 5 Completa. Numero de resultados encontrados: 274 'query_5.csv'
+Query 6 Completa. Numero de resultados encontrados: 201 'query_6.csv'
+Sem resultados para a query 7
+Query 8 Completa. Numero de resultados encontrados: 3772 'query_8.csv'
+Sem resultados para a query 9
+Sem resultados para a query 10
+Query 11 Completa. Numero de resultados encontrados: 140 'query_11.csv'
+Query 12 Completa. Numero de resultados encontrados: 105 'query_12.csv'
+Sem resultados para a query 13
+Query 14 Completa. Numero de resultados encontrados: 1841 'query_14.csv'
+Sem resultados para a query 15
+Sem resultados para a query 16
+Query 17 Completa. Numero de resultados encontrados: 107 'query_17.csv'
+Sem resultados para a query 18
+Sem resultados para a query 19
+Sem resultados para a query 20
+Query 21 Completa. Numero de resultados encontrados: 53 'query_21.csv'
+Sem resultados para a query 22
+Sem resultados para a query 23
+Sem resultados para a query 24
+Sem resultados para a query 25
+Sem resultados para a query 26
+
+total = 11135
+
+old valor = 164.371
